@@ -7,6 +7,10 @@ html, body {
 	margin : 0px;
 }
 
+section {
+	height: 100%;
+}
+
 nav {
 	display: inline-block;
 	width: 100%;
